@@ -1,0 +1,14 @@
+column,description
+n.patches,CNN predicted number of floral segements
+total.area,CNN predicted floral cover
+prop.area,CNN predicted relative floral cover (relative to plot area)
+fu,field count of floral units
+shoot,field count of  number of flowering shoots
+sosp,Solidago spp
+acme,Achillea millefolium
+syer,Symphyotrichum ericoides
+syno,Symphyotrichum novae-angliae
+syla,Symphyotrichum lanceolatum
+loco,Lotus corniculatus
+trre,Trifolium repens
+meal,Medicago lupulina
