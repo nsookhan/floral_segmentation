@@ -1,0 +1,4 @@
+# ignore all but code folder
+/*
+!.gitignore
+!code/
